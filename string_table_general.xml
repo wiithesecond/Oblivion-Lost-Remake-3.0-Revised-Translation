@@ -84,17 +84,17 @@
 
 
 	<string id="enc_snotvornoe">
-		<text>An over-the-counter sleep aid. If taken, it'll induce drowsiness quickly. (start here for your second session on 3/8/24 and don't forget to remove this reminder when you start)</text>
+		<text>An over-the-counter sleep aid. If taken, it'll induce drowsiness quickly.</text>
 	</string>
 
 	<string id="mil_go_to_olmy_expedi_text">
-		<text>Informant: Messer, one of the stalker squads has decided to move far into the Zone and explore the territory of the Silent Hills. Among the squad's stalkers, more than half are elite. Equipped they were superbly... can you go see what's wrong with them? Anything you find on them is yours. Just tell me what happened to them. Alright? There were three stalkers in the group - two in exoskeletons, one was in a black science jumpsuit, unless of course he'd changed costumes... I know for a fact he's a sniper. They went missing in the area of the village... When you find them, contact me. Waiting for the signal...</text>
+		<text>Informant: Messer, one of the stalker squads has decided to move far into the Zone and explore Silent Hills. Among the squad's stalkers, more than half are elite. They were superbly equipped... can you go see what's wrong with them? Anything you find on them is yours. Just tell me what happened to them, alright? There were three stalkers in the group - two in exoskeletons, one was in a black protective suit, unless of course he'd changed costumes... I know for a fact he's a sniper. They went missing at the village... When you find them, contact me. I'll be waiting for the signal...</text>
 	</string>
 
 
 
 	<string id="jackal_podz">
-		<text>Messer. Here's the thing, the Jackal's been in touch. Sending out an SOS signal. The message was misshapen in the transmission, he had something about the dark ones. Bullshit... I spotted him underground in the Cordon area, obviously from the underground tunnels. Why don't you go check it out? You'll get to see each other face to face.</text>
+		<text>Messer, here's the thing, Jackal's been in touch. He sent out an SOS signal. The message he sent was garbled in the transmission, he had something about the dark ones. Bullshit... I spotted him underground in the Cordon area, obviously from the underground tunnels. Why don't you go check it out? You'll get to see each other face to face.</text>
 	</string>
 
 
@@ -104,7 +104,7 @@
 	</string>
 
 	<string id="space_start_tri_quest_article_text">
-		<text>Markov gave some kind of artifact... in the Bar area, a zombified stalker has reappeared in one of the apartment buildings. Offers to kill two birds with one stone - get rid of a troublesome stalker, and conduct an experiment... We need to plant this artifact next to him, which should... disintegrate the stalker...</text>
+		<text>Markov gave some kind of artifact... near the Bar, a zombified stalker has reappeared in one of the apartment buildings. Markov offered me a job that'll kill two birds with one stone - get rid of a troublesome stalker, and conduct an experiment... We need to plant this artifact next to zombified stalker, which should... disintegrate him.</text>
 	</string>
 
 
@@ -112,7 +112,7 @@
 
 
 	<string id="space_start_two_quest_article_name">
-		<text>Professor Markov's order #2</text>
+		<text>Professor Markov's order #2 (start here for your first session on 3/8/24 and don't forget to remove this reminder when you start; also, don't forget to go up to here when implementing your revision work into the OLR 3.0 community patch GitLab repo)</text>
 	</string>
 
 	<string id="space_start_two_quest_article_text">
