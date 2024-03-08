@@ -37,23 +37,23 @@
 
 
 	<string id="job_try_give_1">
-		<text>There's a case... We need to find--</text>
+		<text>There's a case... We need to find -</text>
 	</string>
 
 
 	<string id="job_try_give_2">
-		<text>Yeah, there's something... We need to find--</text>
+		<text>Yeah, there's something... We need to find -</text>
 	</string>
 
 
 
 	<string id="job_try_has_1">
-		<text>Did you find it yet? I need to--</text>
+		<text>Did you find it yet? I need to -</text>
 	</string>
 
 
 	<string id="job_try_has_2">
-		<text>Did you get it? This thing right here--</text>
+		<text>Did you get it? This thing right here -</text>
 	</string>
 
 
