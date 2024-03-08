@@ -6,7 +6,7 @@
 
 
 	<string id="st_knife_old">
-		<text>Blade</text>
+		<text>Bayonet</text>
 	</string>
 
 	<string id="tip_radio_on">
@@ -65,7 +65,7 @@
 
 	
 	<string id="find_stancia_last_doc_desc">
-		<text>It seems that the last, seventh part of the documents in Pripyat is missing... However, I got a message from Freedom that one of their groups went missing in the Chernobyl area, and they had a red folder with them... maybe that's what you need. We should try to find them on the territory of the power plant, according to Freedom, they were traveling in an APC.</text>
+		<text>It seems that the last, seventh part of the documents in Pripyat is missing... However, I got a message from Freedom that one of their groups went missing in the Chernobyl area, and they had a red folder with them... maybe that's what you need. We should try to find them in the vicinity of the power plant. According to Freedom, they were traveling in an APC.</text>
 	</string>
 
 
@@ -1653,7 +1653,7 @@ Military stalkers have been opening fire on every car since the Death Trucks sho
 	</string>
 
 <string id="enc_weapons1_wpn_knife_old_rotten">
-		<text>An old army knife, with a solid blade.</text>
+		<text>An old SVT-40 bayonet, rusted and pitted due to age and exposure to the elements - but still deadly.</text>
 	</string>
 
 
@@ -4338,10 +4338,10 @@ April 26, 2008. 13-40</text>
 		<text>Thunderstorm</text>
 	</string>
 	<string id="oka74protoo_podstvol">
-		<text>Underbarrel grenade launcher for AKS-74R prototype.</text>
+		<text>The AG-40 is a grenade launcher used by the PA md. 86. Originally firing a proprietary 40mm round, all AG-40's in the Zone have been rechambered to accept the 40mm VOG-25 round by either Zone gunsmiths or contract gunsmiths working for the Ukrainian military; all of them are converted for the sake of simplifying logistics.</text>
 	</string>
 	<string id="oka74protoo">
-		<text>A prototype of the AKS-74P assault rifle. Often found in military stalkers. The Kalashnikov 5.45 mm assault rifle of the 1974 model (GRAU index - 6P20) is a 5.45 mm caliber assault rifle developed in 1970 by Soviet designer M. T. Kalashnikov and adopted by the USSR Armed Forces in 1974. It is a further development of the AKM.</text>
+		<text>The PA md. 86 is the current service rifle of the Romanian Army. Large amounts of them have made their way into Zone, circulated by arms dealers buying them in bulk and selling them to the Ukrainian Army or independent stalkers. Some prefer the PA md. 86 over the AK-74 due to its improved ergonomics.</text>
 	</string>
 	<string id="enc_weapons1_wpn-akm74">
 		<text>Kalashnikov assault rifle of 5.45 mm caliber, developed in 1970 by designer M.T. Kalashnikov and adopted by the USSR Armed Forces in 1974. It is a further development of the AKM. The development of the AK-74 is related to the transition to the new low-pulse 5.45 mm cartridge.</text>
@@ -4723,7 +4723,7 @@ The Browning High Power is deservedly considered one of the finest pistols of th
 		<text>A pistol with an integrated silencer, once used by the Soviet Special Forces. Morally obsolete, but in capable hands still quite effective.\nAmmunition:\nbasic 9x18mm,\nenhanced 9x18mm PMM.</text>
 	</string>
 	<string id="enc_weapons1_wpn-pm">
-		<text>Designed to arm the militia. Developed and produced since 1994 by Izhevsk plant (Russia).\nAmmunition:\nbasic 9x18mm,\nenhanced 9x18mm PMM.</text>
+		<text>Designed and manufactured by Izhevsk Machine Engineering Plant in Russia for police and military armament since 1951, this Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defense handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including its short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size.\nAmmunition:\nbasic 9x18mm,\nenhanced 9x18mm PMM.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg-6">
 		<text>Revolver-type grenade launcher. Sometimes just indispensable, in particular when clearing large areas of mutants, attacking guarded stationary objects, in combat with particularly tenacious creatures.\nAmmunition - VOG-25 grenade,\nand VOG-25P grenade.</text>
