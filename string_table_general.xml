@@ -6,7 +6,7 @@
 
 
 	<string id="st_knife_old">
-		<text>Bayonet</text>
+		<text>Old bayonet</text>
 	</string>
 
 	<string id="tip_radio_on">
@@ -71,20 +71,20 @@
 
 
 	<string id="amet_dop_seif_raskaz">
-		<text>Yeah, I heard that Rat gave you the keys to the old place... You're telling me to put another safe in there? Well... you can, of course. Only, I think you understand some of the nuances... Well, first of all, the safe itself. I remember there was one in some hut here in Bar... let's say I put it together. Then the lock must be put in order with the door, so that no one stole anything, because here people are clever on this case... And most importantly, so that no one steals the safe, it should be magnetized to something. Like against the wall of the house... ask me how? You know about the Magnet artifact, right? So, few people know, it has a property - if you stick it to the surface, it magnetizes any matter. Anyway,.. I'm in, but I'll take 5,000 for the job and four Magnet artifacts. Do you agree?</text>
+		<text>Yeah, I heard that Rat gave you the keys to the old place... You're telling me to put another safe in there? Well... you can, of course. Only, I think you should understand some of the details... Well, first of all, the safe itself - I remember there was one in some hut here near the Bar... let's say I put it together. The safe must have a lock that's in good working order, so that no one will steal anything, because here - people are clever and will do anything to get what they need or to get some quick cash... And most importantly, so that no one steals the safe, it should be magnetized to something so that it doesn't go anywhere. Magnetizing it against wall of the house would work... I'll tell you how. You know about the Magnet artifact, right? Only a few people know this: it has a specific property - if you stick it to the surface, it magnetizes any matter. Anyway,.. I'll help you, but I'll need 5,000 roubles for the job, upfront. And I'll need four Magnet artifacts. Do you agree?</text>
 	</string>
 
 
 
 
 	<string id="enc_esc_evacuation">
-		<text>Professor:\nThe group we were expecting is now in the Cordon area, preparing to evacuate the zone. Your job is to go there, and lead the group along the road through the highway to the exit of the zone. I'm sending their coordinates, you'll get all the instructions on the spot. Hurry up. Over and out.</text>
+		<text>Professor:\nThe group we were expecting is now in the Cordon, preparing to evacuate the area. Your job is to go there, and lead the group along the road through the highway to the exit of the area. I'm sending their coordinates, you'll get all the instructions when you get there. Hurry up. Over and out.</text>
 	</string>
 
 
 
 	<string id="enc_snotvornoe">
-		<text>A pill to induce drowsiness quickly.</text>
+		<text>An over-the-counter sleep aid. If taken, it'll induce drowsiness quickly. (start here for your second session on 3/8/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="mil_go_to_olmy_expedi_text">
