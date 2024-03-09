@@ -694,7 +694,7 @@ a lot of people think he's the reason the Zone was created.</text>
 
 
    <string id="blyaaa_head_1">
-    <text>My head is killing me...</text>
+    <text>Hey...</text>
    </string>
 
    <string id="blyaaa_head_2">
@@ -1227,7 +1227,7 @@ a lot of people think he's the reason the Zone was created.</text>
      <text>What's wrong with me? My head is killing me. Where am I? What do I owe you?</text>
   </string>
    <string id="stader_dialog_1">
-     <text>What can I take from you? Besides, you don't remember a damn thing - you don't know who you are, or where you are. You're in the Zone, my boy!</text>
+     <text>What can I take from you? Besides, you don't remember a damn thing. Who you are, where you are. And around you, my boy, is the Zone!</text>
   </string>
    <string id="stader_dialog_2">
      <text>I'm not a boy, and I'm not yours!</text>
@@ -1831,7 +1831,7 @@ you bring it straight to me, you understand? I'll pay you. I'll pay you good mon
 
 
 	<string id="escape_trader_start_dialog_52111">
-		<text>The dead head artifact, how about that, huh? If you don't know what kind of artifact it is and its properties, don't even bring it, because you're a thug, you'll kill people and bring me the heads of my honest customers! Yeah. if you don't have any money. I need this stuff badly, and you, if you've got nowhere else to go, you'll have to figure it out. Or money, of course. Keep in mind, I'll take a percentage for every man I kill.  If you were in a group before you joined the assassins, you'll be a neutral again after redemption, because you'll hardly be taken back after that.</text>
+		<text>The dead head artifact, how about that, huh? If you don't know what kind of artifact it is and its properties, don't even bring it, because you're a thug, you'll kill people and bring me the heads of my honest customers! Yeah. if you don't have any money. I need this stuff badly, and you, if you've got nowhere else to go, you'll have to figure it out. Or money, of course. Keep in mind, I'll take a percentage for every man I kill.  If you were in a group before you joined the killers, you'll be a neutral again after redemption, because you'll hardly be taken back after that.</text>
 	</string>
 
 
