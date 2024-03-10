@@ -245,24 +245,24 @@
 
 
 	<string id="talk_docent_zamer_vibros_article_text">
-		<text>Docent handed out a prototype of a device that protects your brain if you're exposed to a blowout without shelter. But, in order for him to finish his work, this prototype must be laid out in the open while a blowout is occuring. Doing this without any sort of protection is dangerous business. (start here for your first session on 3/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>Docent handed out a prototype of a device that protects your brain if you're exposed to a blowout without shelter. But, in order for him to finish his work, this prototype must be laid out in the open while a blowout is occuring. Doing this without any sort of protection is dangerous business.</text>
 	</string>
 
 
 
 	<string id="tips_jaba_bigcity">
-		<text>This is the road to the Big City... it's closed now, the radiation's too strong. That's where that radio program was from... You don't want to go that way right now.</text>
+		<text>This is the road to the Big City... it's closed now, the radiation levels are too high. That's where that radio program was from... You don't want to go that way right now.</text>
 	</string>
 
 
 	<string id="bunker_find_journl_fin_task_text">
-		<text>The journalist is missing. Followed me north... we need to find him, but first, on the Doctor's tip-off, we need to visit his apartment in Shining Path. Maybe I can find something.</text>
+		<text>The journalist is missing. I need to go north and find him, but first, we need to visit his apartment in Shining Path - Doctor gave us a tip-off: he used to live in Shining Path for a while, so I might be able to find something at where he used to live. Maybe I can find something.</text>
 	</string>
 
 
 
 	<string id="radar_deac_datel_1_task_text">
-		<text>Everything seems ready for the trek north... The Duty Group should be waiting on Radar by now. We have a 9 p.m. to 11 p.m. window available... in which time I need to break into the lab and shut down the Woodpecker. After that, in theory, the road to Pripyat will be open...</text>
+		<text>Everything seems ready for the trek north... The people from Duty should be waiting at Radar by now. My window of opportunity is from 9 p.m. to 11 p.m... I need to break into the lab and shut down the Woodpecker before time runs out. After that, in theory, the road to Pripyat will be open... (start here for your second session on 3/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
