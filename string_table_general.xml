@@ -262,23 +262,23 @@
 
 
 	<string id="radar_deac_datel_1_task_text">
-		<text>Everything seems ready for the trek north... The people from Duty should be waiting at Radar by now. My window of opportunity is from 9 p.m. to 11 p.m... I need to break into the lab and shut down the Woodpecker before time runs out. After that, in theory, the road to Pripyat will be open... (start here for your second session on 3/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>Everything seems ready for the trek north... The people from Duty should be waiting at Radar by now. My window of opportunity is from 9 p.m. to 11 p.m... I need to break into the lab and shut down the Woodpecker before time runs out. After that, in theory, the road to Pripyat will be open...</text>
 	</string>
 
 
 	<string id="bar_dolg_propusk_taskt_text">
-		<text>Next assignment from Toad... You need to find some kind of artifact on the tower that is on the railroad bridge and bring it to him. Gotta remember the detector... damn, the battery is completely near zero...</text>
+		<text>Next assignment from Toad... You need to find some kind of artifact on the tower that is at the railroad bridge and bring it to him. I need to remember to use the detector... damn, the battery in it is almost drained...</text>
 	</string>
 
 
 
 
 	<string id="strelby_pms_taskt_text">
-		<text>Got the gun from Toad... it's a mess, but at least it's something. We have to go down the road, under the underpass. There's a stalker waiting for me there, I think I'll need to take someone down with him... Or something...</text>
+		<text>Got the gun from Toad... it's in rough shape, but at least it's something. I have to go down the road, and then go to the underpass. There's a stalker waiting for me there, I think I'll need to take someone down with him... Or something...</text>
 	</string>
 
 	<string id="doki_ploty_krisha_article_text">
-		<text>Looks like another errand. On the roof of the factory, the Flesh that we've slaughtered has made a lair, where Toad says there are documents. We should find them and bring them to him. Without them, he won't talk to me.</text>
+		<text>Looks like another errand. On the roof of the factory, the Flesh that we've slaughtered has made a lair there. Toad says there are documents located there. We should find them and bring them to him. Without them, he won't talk to me. (start here for your first session on 3/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 	<string id="komandir_kontr_article_text">
