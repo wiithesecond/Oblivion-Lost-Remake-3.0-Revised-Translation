@@ -183,7 +183,7 @@
 		<text>Back</text>
 	</string>
 	<string id="pda_jornal_back_btn_hint">
-		<text>Back to section</text>
+		<text>Previous section</text>
 	</string>
 
 
@@ -199,7 +199,7 @@
 		<text>Dialogues</text>
 	</string>
 	<string id="pda_talk_list_btn_hint">
-		<text>Player dialog log</text>
+		<text>Player dialogue log</text>
 	</string>
 
 
