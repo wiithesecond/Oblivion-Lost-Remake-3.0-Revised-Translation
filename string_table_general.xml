@@ -160,7 +160,7 @@
 
 
 	<string id="check_gar_rat_cache">
-		<text>Yeah, one more thing... there's a case. In that place, in the hangars, there's a passageway... There, deep underground, on the lower level of the tunnels, the stalkers discovered a large metal gate... Scans have confirmed that there are large rooms behind the gates... Come on, go downstairs and see what's going on. Report back to me later. I'm uploading any information about the entry point to those rooms into your PDA. (start here for your first session on 3/9/24 and don't forget to remove this reminder when you start)</text>
+		<text>Yeah, one more thing... there's a case. In that place, in the hangars, there's a passageway... There, deep underground, on the lower level of the tunnels, the stalkers discovered a large metal gate... Scans have confirmed that there are large rooms behind the gates... Come on, go downstairs and see what's going on. Report back to me later. I'm uploading any information about the entry point to those rooms into your PDA.</text>
 	</string>
 
 
@@ -177,7 +177,7 @@
 		<text>Journal</text>
 	</string>
 	<string id="pda_complete_news_btn_hint">
-		<text>Journal of notes and messages</text>
+		<text>Notes and messages</text>
 	</string>
 	<string id="pda_jornal_back_btn_jobs">
 		<text>Back</text>
@@ -228,11 +228,11 @@
 	</string>
 
 	<string id="taken_docs_vetri_pogo_prof_article_text">
-		<text>Winds of Madness...what it means... Anyway, apparently the road to the center of the Zone goes through Lake Yantar, namely a certain scientist Professor. He's the one who's going to have to help me with this... but I don't know if he'll want to help me. Maybe to get what I need, I'll have to work for the academia first...</text>
+		<text>Winds of Madness... what does it all mean? Anyway, apparently the road to the center of the Zone goes through Lake Yantar, and there's a certain scientist at Yantar - someone going by the nickname of Professor. He's the one who's going to have to help me with this... but I don't know if he'll want to help me. To get what I need, I'll have to work for Professor first...</text>
 	</string>
 
 	<string id="pseudohuman_first_checkup_go_article_text">
-		<text>Discovered a strange mutant... It looks like a meter maid, only... more disfigured... Maybe we can find something interesting to do with this mutant. Something tells me this isn't just a simple mindless goon...there's something else...</text>
+		<text>Discovered a strange mutant... It looks like a meter maid, only... more disfigured... Maybe we can find something interesting to do with this mutant. Something tells me this mutant isn't just a simple mindless goon, there's something else going on...</text>
 	</string>
 
 
@@ -245,7 +245,7 @@
 
 
 	<string id="talk_docent_zamer_vibros_article_text">
-		<text>Docent handed out a test sample of a device that would be used to stay under the blowout without shelter... But, in order for him to finish his work, this sample must be laid out in the open in the active phase of emission, when it is already hitting the brains... dangerous business.</text>
+		<text>Docent handed out a prototype of a device that protects your brain if you're exposed to a blowout without shelter. But, in order for him to finish his work, this prototype must be laid out in the open while a blowout is occuring. Doing this without any sort of protection is dangerous business. (start here for your first session on 3/10/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
