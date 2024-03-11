@@ -278,20 +278,20 @@
 	</string>
 
 	<string id="doki_ploty_krisha_article_text">
-		<text>Looks like another errand. On the roof of the factory, the Flesh that we've slaughtered has made a lair there. Toad says there are documents located there. We should find them and bring them to him. If I don't get the documents, he won't talk to me. (start here for your first session on 3/10/24 and don't forget to remove this reminder when you start)</text>
+		<text>Looks like another errand. On the roof of the factory, the Flesh that we've slaughtered has made a lair there. Toad says there are documents located there. We should find them and bring them to him. If I don't get the documents, he won't talk to me.</text>
 	</string>
 
 	<string id="komandir_kontr_article_text">
-		<text>Now that's serious business... We need to rescue the commander of the military patrol and get him out of there. It's located at the factory where the SOS signal is coming from. We need to check gear and first aid kits. And a grenade from Toad would be nice...</text>
+		<text>This is serious business - I need need to rescue the commander that was leading a patrol and get him to safety. He's located at the factory where the SOS signal is coming from. I need to check my gear and first aid kits, and a grenade from Toad would be nice...</text>
 	</string>
 
 	<string id="esc_find_glaz_zabiy_task_text">
-		<text>After another emission, the Toad's Eye artifact appeared in the Garbage. We need to find it and bring it to Toad. He gave me the coordinates. I wonder why no one wants to go after it.</text>
+		<text>After the recent emission, another Toad's Eye artifact appeared in the Garbage. I need to find it and bring it to Toad. He gave me the coordinates. I wonder why no one wants to go after it.</text>
 	</string>
 
 
 	<string id="esc_talk_dolg_garbage_task_text">
-		<text>There's a message from Toad saying a certain Boar knows something about Strelok... It is located in the north of the Garbage, at a roadblock of the Duty faction. We need to talk to him, and then go back to Toad and his eye artifact...</text>
+		<text>Toad sent me a message that says a stalker going by the nickname 'Boar' knows something about Strelok... He's located at the northern checkpoint at the Garbage - the one manned by Duty. I need to talk to him, and then go back to Toad. Toad also mentioned something about an eye artifact that Boar has, he wants it for whatever reason. (start here for your second session on 3/11/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
