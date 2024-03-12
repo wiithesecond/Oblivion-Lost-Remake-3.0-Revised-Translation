@@ -1,0 +1,9 @@
+old large knife description: An old SVT-40 bayonet, rusted and pitted due to age and exposure to the elements - but still deadly. - maybe trim down, taking out the 'rusted' details and such
+
+makarov pm description: Designed and manufactured by Izhevsk Machine Engineering Plant in Russia for police and military armament since 1951, this Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defense handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including its short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size.
+
+original build 1114 AK model description: The PA md. 86 is the current service rifle of the Romanian Army. Large amounts of them have made their way into Zone, circulated by arms dealers buying them in bulk and selling them to the Ukrainian Army or independent stalkers. Some prefer the PA md. 86 over the AK-74 due to its improved ergonomics.
+
+Rechambered AG-40 grenade launcher description: The AG-40 is a grenade launcher used by the PA md. 86. Originally firing a proprietary 40mm round, all AG-40's in the Zone have been rechambered to accept the 40mm VOG-25 round by either Zone gunsmiths or contract gunsmiths working for the Ukrainian military; all of them are converted for the sake of simplifying logistics. 
+
+bright beam village translation: use 'bright beam' or 'yarkiy luch'?
