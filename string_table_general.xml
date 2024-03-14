@@ -379,21 +379,21 @@
 	</string>
 
 	<string id="jurnwtf_hello_sms">
-		<text>A journalist?! (start here for your first session on 3/13/24 and don't forget to remove this reminder when you start)</text>
+		<text>A journalist?!</text>
 	</string>
 
 <string id="kiillde_about_arpop_und">
-		<text>Hmmm... I'm a business man. You work for us. you're looking for Strelok, aren't you? I have information about him. But do the job first and then we'll call it even, stalker. You're right about the radiation. But, that fugitive who needs to say hello from us is hiding somewhere in the basements of the research institute... and there's no radiation... I mean, in case you didn't know, the Garbage dungeons are connected to the NII underground, so if you go that way, you won't need the suit in theory. I'll give you the passage info from the underground to the NII...</text>
+		<text>Hmmm... I'm a business man. You're looking for Strelok, aren't you? I have information about him. If you do a job for me first, I'll tell you what I know about him - pro quid pro. Also, you're right about the radiation. But, that fugitive we're looking for is hiding in the basements of the research institute... and there's no radiation there... I mean, in case you didn't know. The underground tunnels in the Garbage are connected to the MedPribor Research Institute underground, so if you go that way, you won't need the suit.. in theory. If you agree to do this, I'll give you information about the underground section of the MedPribor Institute.</text>
 </string>
 
 
 <string id="find_find_dezintegrator_article">
-		<text>To find an unusual artifact</text>
+		<text>Searching for an unusual artifact</text>
 </string>
 
 
 <string id="dok_find_dezintegrator_article">
-		<text>Some scientist on the roof of Bar asked to find him if possible this artifact, attaching only a photo without any description...</text>
+		<text>Some scientist on the roof of Bar asked me if it's possible to find this artifact. He only gave me a photo of it without any description or relevant information... (start here for your second session on 3/14/24 and don't forget to remove this reminder when you start)</text>
 </string>
 
 
