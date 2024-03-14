@@ -393,7 +393,7 @@
 
 
 <string id="dok_find_dezintegrator_article">
-		<text>Some scientist on the roof of Bar asked me if it's possible to find this artifact. He only gave me a photo of it without any description or relevant information... (start here for your second session on 3/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>Some scientist on the roof of Bar asked me if it's possible to find this artifact. He only gave me a photo of it without any description or relevant information...</text>
 </string>
 
 
@@ -401,14 +401,14 @@
 
 
 	<string id="documentacia_zombibrain_doki_opis">
-		<text>It's an unremarkable folder. You can tell from the cover that it has been used more than once, but all the sheets inside are laminated and uncharacteristically thick. The content is impressive - it's nothing short of a psi helmet assembly manual. Even at a cursory glance, it can be seen that each sheet is designed with the utmost care so that it can be understood by a knowledgeable professional. From the sketches and attached photos, it can be understood that the device is not particularly difficult to assemble, but, judging from the numerous notes and attached experimental results, requires a certain knowledge of neurobiology and cybernetics for fine-tuning, as well as rare or difficult-to-make parts for efficient operation.</text>
+		<text>It's an unremarkable folder. You can tell from the cover that it has been used more than once, but all the sheets inside are laminated and uncharacteristically thick. The content is impressive - it's nothing short of a psi helmet assembly manual. Even at a cursory glance, it can be seen that each sheet is designed with the utmost care so that it can be understood by a knowledgeable professional. From the sketches and attached photos, it can be understood that the device is not particularly difficult to assemble, but, judging from the numerous notes and attached experimental results, requires a certain knowledge of neurobiology and cybernetics for fine-tuning, as well as rare or difficult-to-make parts for the helmet that are required for it to work correctly.</text>
 	</string>
 
 
 
 	<string id="pda_device_pda_majors_desc">
-		<text>PDA found a message for someone named Major:
-		R-138, there's a new order. From our friends at bloodcall... into an anthill. It's a big order. There's a rumor that a Frankenstein stalker has been seen in the Zone. The Doctor put it together from other stalkers' body parts. Literally. We can't get to the Doctor in the Swamps - too high psi activity prevents us from reaching his hole, but the stalker himself is still wandering around the Zone somewhere. Find him and bring him to the Perimeter. Alive, if possible. I already gave my eagles the Frankenstein's description. But you have a better chance of finding him. Send the number of the account - I'll pay in advance, if you agree.</text>
+		<text>Your PDA found a message for someone named Major:
+		R-138, there's a new order from our friends at command... An important one. There's a rumor that a Frankenstein stalker has been seen in the Zone. The Doctor put it together from other stalkers' body parts, literally. We can't get to the Doctor in the Swamps - the high psi activity there prevents us from reaching his home, but the Frankenstein stalker himself is still wandering around the Zone somewhere. Find him and bring him to the checkpoint. Alive, if possible. I already gave my soldiers the stalker's description. But you have a better chance of finding him. Send the number of the account - I'll pay in advance, if you agree.</text>
 	</string>
 
 
@@ -429,7 +429,7 @@
 
 
 	<string id="plen_quest_now_kick_article_desc">
-		<text>... The major's got everyone on it to find him... killers...dark... The Doctor..., his masterful work... put together a few pieces... We can't let him get to the Major... you can't...</text>
+		<text>... The major's got everyone on it to find him... killers...dark... The Doctor..., his masterful work... put together a few pieces... We can't let him get to the Major... you can't... start here for your first session on 3/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
