@@ -501,17 +501,17 @@
 
 
 	<string id="doka_sterok_zametka_desc">
-		<text>The development of psychotronic weapons initiated in the USSR led to the creation of the OSOZNANIE project in 2006, the laboratories of which are located on the territory of ZOCHAES.
-The idea of the projet is to influence the information shell of the earth, the "noosphere", through which it is possible to influence any individual on the planet. A group of scientists, guided by presumably humane considerations, not excluding, however, the mercenary in essence idea of the gray cardinals of the planet, turn on the generators and begin an experiment that allows, in their opinion, to stop violence, war, crime and so on. This idealistic in essence experiment leads to the breakage of something in the very essence of the universe, as a result of which begins to change nature and its inhabitants so far in the local volume of the Zone. Realizing the fact that something unplanned is happening, but at the same time realizing that it is up to them to eliminate the consequences, the participants of the experiment block the passage to the Center of the zone with psi-fields, and create a mythical Wish Granter, located under the sarcophagus of the Chernobyl NPP, which is actually a "Monolith" psi-installation, causing halluciogenic visions, in the form of the apparent realization of the individual's desires.
- Also, the group has a psi influence on the leaders of the states to prevent massive attacks using the army on the center of the zone, which could lead to the destruction of the generators, which still give a chance to return everything to normal. Plus they force representatives of the authorities to prevent people from entering the Zone in every possible way (military stalkers, cordons, etc.).
-Their people who have reached the center of the Zone and fallen under the influence of "Monolith", form either squads of zombie defenders, or wipe their memories and take them far away from the center of the Zone, or send the hardiest to eliminate undesirable people, both in the Zone and outside it. This procedure of total zombification is codenamed S.T.A.L.K.E.R.
-Strelok is one of the latter. He realistically learned too much to be left alive, but just as any complex system can fail, so in his case, instead of being eliminated, he was zombified and sent to kill himself. And only the fact that he seems to have an innate ability to easily tolerate this kind of exposure has led to the fact that he is still acting sensibly...</text>
+		<text>The development of psychotronic weapons initiated in the USSR led to the creation of the 'OSOZNANIE' project in 2006, the laboratories of which are located near the Chernobyl Nuclear Power Plant.
+The idea of the project is to influence the information layer of Earth, the "noosphere", through which it is possible to influence any individual on the planet. A group of scientists, guided by presumably humane considerations, not excluding, however, parties with potentially malicious intentions working behind the scenes - starting developing machinery and began experiments that allows, in their opinion, to stop violence, war, crime and so on. This idealistic experiment lead to the deformation of the essence of the universe, the consequences of which lead to the birth of the Zone. Realizing the fact that something unintended is happening, but at the same time realizing that it is up to them to stop the consequences, the participants of the experiment block the passage to the Center of the Zone with psi-fields, and created a mythical Wish Granter, located under the sarcophagus of the Chernobyl Nuclear Power plant, which is actually a "Monolith" psi-installation, causing halluciogenic visions, in the form of the apparent realization of an individual's desires.
+ Also, the group uses psionic energy to influence the leaders various post-Soviet states to prevent massive attacks with their armies, which could lead to the destruction of the generators, which still give a chance to return everything to normal. Plus, they force representatives of the authorities to prevent people from entering the Zone in every possible way (military stalkers, cordons, etc.).
+People who have reached the center of the Zone and fallen under the influence of "Monolith", form either squads of zombie defenders, or wipe their memories and take them far away from the center of the Zone, or send the hardiest to eliminate undesirable people, both in the Zone and outside it. This procedure of total zombification or control is codenamed S.T.A.L.K.E.R., and operatives who are made using this method are designated as such with a tattoo.
+Strelok is one of these operatives. He realistically learned too much to be left alive, but any complex system can fail, so in his case, instead of being eliminated, he was zombified and sent to kill himself. And only the fact that he seems to have an innate ability to easily tolerate exposure to certain amounts of psionic energy has led me to the conclusion that he is still acting sensibly...</text>
 	</string>
 
 
 
 	<string id="psy_shapka_proto">
-		<text>Prototype T-ZUD-12</text>
+		<text>T-ZUD-12 Prototype</text>
 	</string>
 
 
@@ -522,7 +522,7 @@ Strelok is one of the latter. He realistically learned too much to be left alive
 
 
 	<string id="psy_shapka_proto_desc">
-		<text>Experimental prototype T-ZUD-12 (ultra pressure protection). Faulty. Probably has value.</text>
+		<text>Experimental T-ZUD-12 prototype (ultra pressure protection). Faulty, but it might have some value to someone.</text>
 	</string>
 
 
