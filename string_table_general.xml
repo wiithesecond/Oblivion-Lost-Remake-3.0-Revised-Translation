@@ -528,18 +528,18 @@ Strelok is one of these operatives. He realistically learned too much to be left
 
 
 	<string id="pribor_antivibros_desc">
-		<text>A device for shielding against the effects of emission on the body. Protects against emission damage, has a limited lifespan.</text>
+		<text>A device for shielding against the effects of psionic emission on the body. It'll give complete protection, but it has a limited lifespan.</text>
 	</string>
 
 
 	<string id="zameritel_vibrosa_desc">
-		<text>A sample of special equipment to survive a blowout. Scientists have discovered that during emission in the Zone there is a strange activity, it is necessary to find out the nature of these phenomena. To measure, the instrument must be laid out in an open area during the intermediate emission phase.</text>
+		<text>A sample of special equipment that's used to measure psionic energy from a blowout. Scientists have discovered that during an emission in the Zone, there is a strange psionic energy activity, so it's necessary to find out the nature of this phenomena. To measure, the device must be laid out in an open area during an emission.</text>
 	</string>
 
 
 
 	<string id="vorglaz_gig_talk1">
-		<text>When the commotion started, I accidentally got into some room, they don't lock a damn thing in there, they must have been sure no one would get in... So there's some sort of archive, I took as many folders as I could fit in my duffel bag. I don't know why, but they're prized in the Zone. The Watchdog wouldn't let us trade information... Maybe he was dealing it himself. And what good are these papers, but you can sell them, and good money, and enough for food, and...</text>
+		<text>When the commotion started, I accidentally got into some room, they didn't lock a damn thing in there, they must have been sure no one would get in... There's some sort of archive, I took as many folders as I could fit into my duffel bag. I don't know why, but they're prized in the Zone. The Watchdog wouldn't let us trade information... Maybe he was dealing it himself. I can't understand the content of these papers, but you can sell them for good money, which means I'll be able to eat... (start here for your first session on 3/15/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
