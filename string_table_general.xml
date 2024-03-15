@@ -429,7 +429,7 @@
 
 
 	<string id="plen_quest_now_kick_article_desc">
-		<text>... The major's got everyone on it to find him... killers...dark... The Doctor..., his masterful work... put together a few pieces... We can't let him get to the Major... you can't... (start here for your first session on 3/14/24 and don't forget to remove this reminder when you start)</text>
+		<text>... The major's got everyone on it to find him... killers...dark... The Doctor..., his masterful work... put together a few pieces... We can't let him get to the Major... you can't...</text>
 	</string>
 
 
@@ -439,7 +439,7 @@
 
 
 	<string id="osved_poisk_dokumentov">
-		<text>I can help with that... Only the result won't be immediate... you know, you have to make inquiries, who's been where when, and so on... Yeah, one more thing. There are two options you can choose from.\nSo the first... two thousand, and in a little while I'll send you the approximate location of the document you're interested in on the PDA.\nEither the second... I'm the one who's pulling my strings and getting you the document you need. All you have to do is come and get it from me. It will cost more... ten grand total. So, what do you need to find?</text>
+		<text>I can help with that... Only the result won't be immediate... you'll have to make inquiries, who's been where, when, and so on... Yeah, one more thing. There are two options you can choose from.\nSo the first... if you give me two thousand roubles, I'll send you the approximate location of the document you're interested in a little while to your PDA.\nThe second option will cost you more: I'm the one who's pulling my strings  and getting you the document you need. All you have to do is come and get it from me. It will cost more... ten grand total. So, what do you need to find?</text>
 	</string>
 
 
@@ -447,7 +447,7 @@
 
 
 	<string id="radbun_docs_posthuman_desc">
-		<text>Test results of the Posthuman Project.\nIn the document folder, you can find a sheet with the title conclusion. Based on the results, the following conclusions can be drawn: 1) the project is still too far from completion, 2) we should focus on finding a method that combines both the intelligence enhancement of the test material and the effective maximization of external cortex radiation, 3) we should involve the neuroengineering department in the project to consult on the issue of psi overload.</text>
+		<text>Test results of the Posthuman Project.\nIn the document folder, you can find a sheet with the title "conclusion" on it. The sheet says, "Based on the results, the following conclusions can be drawn: 1) the project is still too far from completion, 2) we should focus on finding a method that combines both the intelligence enhancement of the test material and the effective maximization of external cortex radiation, 3) we should involve the neuroengineering department in the project to consult on the issue of psi overload."</text>
 	</string>
 
 
@@ -466,14 +466,12 @@
 	</string>
 
 	<string id="mertv_lead_ab_door_zakazz">
-		<text>The leader of one of the bandit groups in the Dark Valley has agreed to give the password to enter the lab. For this information he asks for a VSK-94 rifle, and five bottles of vodka. Or five jars of jelly... He asked me to say hello to the Informant in Bar...</text>
+		<text>The leader of one of the bandit groups in the Dark Valley has agreed to give the password to enter the lab. In exchange for this information, he wants an VSK-94 rifle, and five bottles of vodka. Or five jars of jelly... He also asked me to say hello to Informant at the Bar...</text>
 	</string>
 
 
 	<string id="ratlab_doki_jaba_desc">
-		<text>A large pile of papers with various records...\nIn order to make research work safer and more stable (after several unfortunate incidents), it was decided to administer a third kind of psi-influence to all laboratory workers, from cleaners to scientists. Everyone will be fitted with adaptable psi-blocks that will prevent anyone from disrupting operations, rioting, stealing data, and pogroms or escapes.\nMessage 
-...there was a conflict between a group of scientists developing psychotropic weapons and the leaders of Project Cover-up. Scientists did not want to be exposed to the rays of the weapons they themselves were developing. Realizing that psi-impact is a matter of time the scientists began to ponder the situation and came up with a plan to free them from danger.
- </text>
+		<text>A large pile of papers with various records in it...\nIn order to make research work safer and more stable (after several unfortunate incidents), it was decided to administer a third kind of psi-influence to all laboratory workers, from cleaners to scientists. Everyone will be fitted with adaptable psi-blocks that will prevent anyone from disrupting operations, rioting, stealing data, and pogroms or escapes.\nMessage: ...there was a conflict between a group of scientists developing psychotropic weapons and the leaders of Project Cover-up. Scientists did not want to be exposed to the rays of the weapons they themselves were developing. Realizing that it's only a matter of time before they become victims the weapons they're working on, the scientists began to ponder the situation and came up with a plan to free themselves from danger.</text>
 	</string>
 
 
@@ -498,7 +496,7 @@
 
 
 	<string id="enc_meat_coocked">
-		<text>Cooked meat. Completely ready for safe consumption.</text>
+		<text>Cooked meat. This meat is entirely safe to eat. (start here for your first session on 3/14/24 and don't forget to remove this reminder when you start)</text>
 	</string>
 
 
@@ -507,8 +505,7 @@
 The idea of the projet is to influence the information shell of the earth, the "noosphere", through which it is possible to influence any individual on the planet. A group of scientists, guided by presumably humane considerations, not excluding, however, the mercenary in essence idea of the gray cardinals of the planet, turn on the generators and begin an experiment that allows, in their opinion, to stop violence, war, crime and so on. This idealistic in essence experiment leads to the breakage of something in the very essence of the universe, as a result of which begins to change nature and its inhabitants so far in the local volume of the Zone. Realizing the fact that something unplanned is happening, but at the same time realizing that it is up to them to eliminate the consequences, the participants of the experiment block the passage to the Center of the zone with psi-fields, and create a mythical Wish Granter, located under the sarcophagus of the Chernobyl NPP, which is actually a "Monolith" psi-installation, causing halluciogenic visions, in the form of the apparent realization of the individual's desires.
  Also, the group has a psi influence on the leaders of the states to prevent massive attacks using the army on the center of the zone, which could lead to the destruction of the generators, which still give a chance to return everything to normal. Plus they force representatives of the authorities to prevent people from entering the Zone in every possible way (military stalkers, cordons, etc.).
 Their people who have reached the center of the Zone and fallen under the influence of "Monolith", form either squads of zombie defenders, or wipe their memories and take them far away from the center of the Zone, or send the hardiest to eliminate undesirable people, both in the Zone and outside it. This procedure of total zombification is codenamed S.T.A.L.K.E.R.
-Strelok is one of the latter. He realistically learned too much to be left alive, but just as any complex system can fail, so in his case, instead of being eliminated, he was zombified and sent to kill himself. And only the fact that he seems to have an innate ability to easily tolerate this kind of exposure has led to the fact that he is still acting sensibly...
-</text>
+Strelok is one of the latter. He realistically learned too much to be left alive, but just as any complex system can fail, so in his case, instead of being eliminated, he was zombified and sent to kill himself. And only the fact that he seems to have an innate ability to easily tolerate this kind of exposure has led to the fact that he is still acting sensibly...</text>
 	</string>
 
 
