@@ -25,7 +25,7 @@
 		<text>Tell me more about him.</text>
 	</string>
 	<string id="escape_lager_leader_hello_11111111">
-		<text>Listen, I've been here a week and I haven't eaten anything but rats. If you bring me some human food, say, two loaves of bread, and I'll tell you everything I know. I'd go myself, but the Freedom soldiers don't like me much. Got it?</text>
+		<text>Listen, I've been here for week and I haven't eaten anything but rats. If you bring me some human food, say, two loaves of bread, and I'll tell you everything I know. I'd go myself, but the Freedom soldiers don't like me too much. Got it?</text>
 	</string>
 	<string id="escape_lager_leader_hello_111111111">
 		<text>Alright.</text>
@@ -36,49 +36,48 @@
 
 
  <string id="7_propusk_done">
-    <text>To hell with them. Fucking "heroes". You should've seen them, the fucking zone rescue team. Well, you've been doing a pretty good job lately. I don't say this to many people, but maybe you'll do some good. Anyways, I took a look at the papers you brought and it looks like this is only the first part. The second part, according to them, is here in Cordon. They're supposed to be taken to the outside world. You know what I think? We gotta take what's ours from the military, right? Oh, and one more thing. These "heroes" had some kind of base here in Cordon. They used to meet in the garages next to the boiler. They were pretty good at encryption, so they might've had a camouflaged entrance... Now, let's get to it.</text>
+    <text>To hell with them. Fucking "heroes". You should've seen them, the fucking zone rescue team. Well, you've been doing a pretty good job lately. I don't say this to many people, but maybe you'll do some good. Anyways, I took a look at the papers you brought and it looks like this is only the first part. The second part, according to them, is here in Cordon. They're supposed to be taken to the outside world. You know what I think? We gotta take what's ours from the military, right? Oh, and one more thing. These "heroes" had some kind of base here in Cordon. They used to meet in the garages near the boiler. They were pretty good at encryption, so they might've had a camouflaged entrance... Now, let's get to it.</text>
    </string>
 
 
-
+<!--this paragraph is confusing and I don't know why it's formatted with individual lines-->
+<!--broken lines pin-->
  <string id="rat_nov_1">
     <text>Oh, man, here's the story. I've heard a lot about the boiler room.
-like a famous stalker died there. Local legend,
-so to speak. There's an omen about this place: whoever goes into this place, they'll be haunted by bad luck. So.
-I decided to visit the catacombs. I went in. I look up, and there's an entrance
-under the ground somewhere. So I thought, let me see what's in there. Man,
-you don't know how happy I am to see you. I ain't been out here for half a day. So I come down. I see there's a shitload of hallways and rooms.
-and rooms. I go into one. I go into the second one. I went into a third.
+They say a famous stalker died there. Local legend,
+so to speak. There's a bad omen about this place: whoever goes inside will be haunted for life. So.
+I decided to visit the catacombs. I went in, look up and there's an entrance
+underground. So I decided to check it out. Man,
+you don't know how happy I am to see you. I ain't been out here for half a day. So I come down. I see there's a shitload of hallways and rooms and I went into every one of them.
 My curiosity was piqued, wondering what this place was.
- I didn't know these catacombs were so complicated. Eventually,
-I got lost. Hey, man, listen, I need you to get me out of here. Or at least
-point me in the right direction. I'll never forget!</text>
+I didn't know these catacombs were so complicated, which is what got me lost. Now, listen, I need you to get me out of here, or at least
+point me in the right direction. I'll spread the word about you!</text>
    </string>
 
 
 
  <string id="rat_nov_2">
     <text>I'll give you directions, sure. Look, you go that way, and from there you turn left.
-Go through the corridor, don't look in the rooms. There's nothing to do. You go down the hallway, and then you go up the stairs.
-it's on the right. That's your exit.
+Go through the corridor, don't look in the rooms, they're no good for you. Go down the hallway, and then you go up the stairs.
+Your exit is on the right.
 </text>
    </string>
 
 
  <string id="rat_nov_3">
-    <text> Hey, man, thanks. I'm gonna owe you for the rest of my life. Never
-I'll go down in these goddamn dungeons again. Fuck 'em</text>
+    <text> Hey, man, thanks. I'm gonna owe you for the rest of my life. I'll
+never lay foot in these goddamn dungeons again. Fuck 'em!</text>
    </string>
 
  <string id="rat_nov_4">
-    <text>Hey, you seen any live stalkers around here?
+    <text>Hey, you seen any living stalkers around here?
 </text>
    </string>
 
 
  <string id="rat_nov_5">
-    <text>Nah, man. No matter how many times I've been down here, I ain't seen nothing. Rats and skeletons.
-Nothing else interesting. It's a shame. Man, thanks again. I'm outta here.
+    <text>Nah, man. No matter how many times I've been down here, I ain't seen nothing, just rats and skeletons.
+	It's a shame. Man, thanks again. I'm outta here.
 </text>
    </string>
 
@@ -89,25 +88,25 @@ Nothing else interesting. It's a shame. Man, thanks again. I'm outta here.
         <text>You paged me?</text>
     </string>
     <string id="jaba_start_phanrom_1">
-        <text>Oh, he's here. Good job delivering the box. Appreciate it. So I talked to the Barkeep, and he needs time to figure out what's going on. you know, I guess. I got a case. </text>
+        <text>Oh, you're here. Good job delivering the box, I appreciate it. So, I talked to the Barkeep, and he needs time to figure out what's going on. If you ask me, I think we've got a case. </text>
     </string>
     <string id="jaba_start_phanrom_2">
         <text>What's the case?</text>
     </string>
     <string id="jaba_start_phanrom_3">
-        <text>Well, there was this new guy I know about a week ago. He's not a rookie, but that's not the point. said, "Vovan, I'm going to the Lake Yantar." It was clear that he was dead... he disappeared on the way to the research institute. I never heard from him again, but one of my couriers said he'd seen him periodically under the bridge at night.</text>
+        <text>Well, there was this new guy I know about a week ago. He's not a rookie, but that's not the point. He said, "Vovan, I'm going to Lake Yantar." It was clear that he had died... He disappeared on the way to the research institute. I never heard from him again, but one of my couriers said he'd sometimes seen him under the bridge at night.</text>
     </string>
     <string id="jaba_start_phanrom_4">
-        <text>What's that got to do with me?</text>
+        <text>And why are you telling me all that?</text>
     </string>
     <string id="jaba_start_phanrom_5">
-        <text>Because I got a report online that he's gone. I got a gut feeling something ain't right. I don't know what the hell happened to him. Maybe it's a glitch or-- well, you're the man of the hour, you go and see what's going on with him. He only shows up under the bridge at night. The point is, the locals know he's missing, and they're afraid to go there. I don't want that kind of damage. </text>
+        <text>Because I got a report online that he's gone. I got a gut feeling something ain't right. I don't know what the hell happened to him. Maybe it's a glitch or-- well, you're the man of the hour, you go and see what's going on. He only shows up under the bridge at night. The thing is, the locals know he's missing, and they're afraid to go there. I don't want that kind of damage. </text>
     </string>
     <string id="jaba_start_phanrom_6">
         <text>So what am I supposed to do?</text>
     </string>
     <string id="jaba_start_phanrom_7">
-        <text>I don't know, I already told you, I don't want him here. Get rid of him. Any way you can. If you do, you can count on me to treat you well. And the loot, of course.</text>
+        <text>I don't know, I already told you, I don't want him here. Get rid of him. Any way you can. If you do, you can count on me to treat you well. And there will be loot, of course.</text>
     </string>
     <string id="jaba_start_phanrom_8">
         <text>Alright.</text>
@@ -115,25 +114,27 @@ Nothing else interesting. It's a shame. Man, thanks again. I'm outta here.
 
 
  <string id="han_3">
-    <text>Only you'll have to get in touch with the Jackal - he knows where the stash left over from the Jolly Fox. an inheritance of sorts. You haven't forgotten that the bridge is now guarded by a sniper, have you? So you have to go through the tunnel to the left of the bridge. As the railroad embankment crossed, so contact and go out, but not for long, or dark stalkers will detect and then bye bye... Get in touch through your PDA contacts, and don't show your face there at all.</text>
+    <text>You'll have to get in touch with Jackal - he knows where the stash left over from the Nimble Fox. an inheritance of sorts. You haven't forgotten that the bridge is now guarded by a sniper, have you? So you have to go through the tunnel left of the bridge. you will cross the railway embankment, contact and get out, but don't take long, or the stalkers will detect and kill you... Get in touch through your PDA contacts, and don't show your face there at all.</text>
    </string>
 
 
  <string id="han_2">
-    <text>Why are you being so coy? Is there some kind of trick to it? Well, the hell with the catch, you're offering good money.</text>
+    <text>Why are you being so dodgy? Is there some caveat to it? Well, to hell with that, you're offering good money.</text>
    </string>
 
  
 <string id="han_1">
-    <text>Alright, you want to go ahead, I'll give you the bare minimum and you can go on your way. But you need money in the zone, too. Maybe I can be of some use to you with my feeble strength. There's a stash behind the railroad tracks. If you get the goods from there, I'll take care of it. And then we can go further afield if you're so eager. But you'll bring it, I'm sure you're an honest man. And I'll pay you for it... 500 rubles. Hmm?</text>
+    <text>Alright, if you want to go on, I'll give you the bare minimum and you can be your way. You need money in the zone, too. Maybe I can be of some use to you with my miserable strength. There's a stash behind the railroad tracks. If you get the goods from there, I'll take care of it and then we can go further. You'll bring it, I'm sure you're an honest man, and I'll pay you for it... 500 rubles. Hmm?</text>
    </string>
 
 
  <string id="jasukkubys_sace_1">
-    <text>About the Monolith? There's a lot of rumors about this thing, about the Monolith. All kinds of rumors.
-Some stalker told me that Monolith is some kind of-- What did he say? The basis of all human aspirations and desires? Something unique that
-to which man aspires. Quin-tez-sen-tsi-ya.</text>
+    <text>About the Monolith? There's a lot of rumors about that thing.
+Some stalker told me that the Monolith is some kind of-- What did he say? The basis of all human aspirations and desires? Something unique that
+inspires men. Quintessencial.</text>
    </string>
+   
+   <!-- checkpoint -->
 
  <string id="jasukkubys_sace_2">
     <text>I'm going on, don't interrupt me. He said a lot of clever things back then.
